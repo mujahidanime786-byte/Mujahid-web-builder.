@@ -1,5 +1,4 @@
-
 User-agent: *
 Allow: /
 
-Sitemap: https://mujahid-web-portfolio.vercel.app/sitemap.xml
+Sitemap: https://mujahidwebportfolio.vercel.app/sitemap.xml
